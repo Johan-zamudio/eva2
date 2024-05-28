@@ -1,0 +1,32 @@
+/* Ajustes para las imágenes de los muebles */
+.glasses_box {
+    text-align: center;
+    margin-bottom: 30px; /* Espacio entre cada elemento */
+}
+
+.glasses_box figure img {
+    max-width: 100%; /* Ajusta el ancho máximo de las imágenes */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Centra las imágenes horizontalmente */
+    border: 1px solid #ddd; /* Agrega un borde alrededor de las imágenes */
+    border-radius: 5px; /* Añade bordes redondeados */
+}
+
+/* Ajuste para el botón "Read More" */
+.read_more {
+    display: block;
+    text-align: center;
+    margin-top: 30px; /* Espacio entre los muebles y el botón */
+}
+
+/* Ajuste para el título de la sección */
+.glasses .titlepage h2 {
+    text-align: center;
+    margin-bottom: 30px; /* Espacio entre el título y los muebles */
+}
+
+/* Ajuste para el logo en la barra de navegación */
+.logo img {
+    max-height: 40px; /* Ajusta la altura máxima del logo */
+}

@@ -1,0 +1,41 @@
+/* Ajustar el tamaño del logo */
+.logo img {
+    max-width: 100px; /* Ajusta este valor según tus necesidades */
+    height: auto;
+}
+
+/* Ajustar el tamaño de las imágenes del banner */
+.banner_main .carousel-item figure img {
+    max-width: 80%; /* Ajusta este valor según tus necesidades */
+    height: auto;
+}
+
+/* Ajustar el tamaño de la imagen en la sección "about" */
+.about_img img {
+    max-width: 100%; /* Ajusta este valor según tus necesidades */
+    height: auto;
+}
+
+/* Ajustar el tamaño de las imágenes en la sección "Our Glasses" */
+.glasses_box figure img {
+    max-width: 100%; /* Ajusta este valor según tus necesidades */
+    height: auto;
+}
+
+/* Ajustar el tamaño de las imágenes en la sección "shop" */
+.shop_img img {
+    max-width: 100%; /* Ajusta este valor según tus necesidades */
+    height: auto;
+}
+
+/* Ajustar el tamaño de las imágenes en la sección "clients" */
+.clients_box figure img {
+    max-width: 100px; /* Ajusta este valor según tus necesidades */
+    height: auto;
+}
+
+/* Ajuste general para todas las imágenes */
+img {
+    max-width: 100%;
+    height: auto;
+}
